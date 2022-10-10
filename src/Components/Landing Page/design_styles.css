@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;600&display=swap');
+
+body{
+     font-family: 'Montserrat', sans-serif;
+}
+
+  .imgLabel {
+    font-size: 15px;
+    color: #fff;
+    margin: 0
+  }
+  .imgLabelTwo {
+    color: #fff;
+    margin: 0;
+    text-align: right;
+  }
